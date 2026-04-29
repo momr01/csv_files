@@ -1,5 +1,5 @@
 f_actual,tarifa,cod_unicom,ruta,num_itin,ciclo,f_lteor,anio_ciclo,nl_gen,est_itin,desc_est,cantidad,leidos,faltantes,anomalias,prop_anomalias,demora_dias_corridos,demora_hab_sin_feriados,cod_contratista,contratista
-24/4/2026 00:00:00,T1,1102,37,595,2,27/4/2026 00:00:00,2026,284,IR014,Cargado TPL,284,274,10,17,5,99,1,1,CH001,SYMESA
+24/4/2026 00:00:00,T1,1102,37,595,2,27/4/2026 00:00:00,2026,284,IR014,Cargado TPL,284,274,10,17,6,1,1,CH001,SYMESA
 27/4/2026 00:00:00,T1,1102,37,700,2,27/4/2026 00:00:00,2026,250,IR010,Enviado al TPL,250,0,250,0,0,1,1,CH001,SYMESA
 24/4/2026 00:00:00,T1,1102,37,841,2,27/4/2026 00:00:00,2026,868,IR014,Cargado TPL,868,570,298,47,5,41,1,1,CH001,SYMESA
 27/4/2026 00:00:00,T1,1102,37,855,2,27/4/2026 00:00:00,2026,199,IR014,Cargado TPL,199,16,183,4,2,01,1,1,CH001,SYMESA
